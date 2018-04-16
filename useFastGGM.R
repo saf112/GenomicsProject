@@ -40,3 +40,5 @@ outlist3 <- FastGGM(as.matrix(s3_sample[[1]]))
 #cov[cov>0 ]<-1
 #gg=network(cov, matrix.type="adjacency")
 #ggnet2(gg)
+
+
